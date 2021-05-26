@@ -1,0 +1,19 @@
+eureka
+http://localhost:8761/
+
+hystrix
+http://localhost:9295/hystrix
+
+
+gatewate hystrix stream
+
+http://localhost:9191/actuator/hystrix.stream -> give this url in hystrix dash board stream
+
+zipkin 
+
+https://zipkin.io/
+https://zipkin.io/pages/quickstart
+http://localhost:9411/zipkin/
+
+
+
